@@ -21,8 +21,7 @@ const Branding = () => {
             rel="noopener noreferrer"
             className="x-btn"
           >
-            Follow us on X Articles and turn on notifications to stay updated.
-            <span className="x-btn-arrow">Follow on X →</span>
+            Follow on 𝕏
           </a>
         </div>
       </div>
@@ -90,11 +89,6 @@ const Branding = () => {
         .x-btn:hover {
           transform: translateY(-2px);
           box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
-        }
-
-        .x-btn-arrow {
-          display: inline-block;
-          margin-left: 8px;
         }
 
         .large-branding-wrapper {
