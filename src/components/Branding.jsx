@@ -21,7 +21,7 @@ const Branding = () => {
             rel="noopener noreferrer"
             className="x-btn"
           >
-            Follow on 𝕏
+            𝕏 Follow our Twitter
           </a>
         </div>
       </div>
@@ -75,7 +75,7 @@ const Branding = () => {
         .x-btn {
           display: inline-block;
           background-color: #7700ffff; /* Substack orange */
-          color: #000000ff;
+          color: #ffffffff;
           padding: 18px 36px;
           border-radius: 40px;
           font-size: 1.1rem;
