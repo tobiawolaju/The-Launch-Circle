@@ -4,34 +4,34 @@ import { motion, AnimatePresence } from 'framer-motion';
 const cardData = [
   {
     id: 'master',
-    title: 'Master',
+    title: 'Learn fast.',
     subtitle: 'Skills',
     color: '#ff3d00',
-    description: 'Develop high-leverage skills before graduation. Master the tools that move the needle in production environments.',
+    description: 'Learn quickly through hands-on execution. Build high-leverage skills by working with real tools and real product workflows.',
     pattern: 'circles'
   },
   {
     id: 'ship',
-    title: 'Ship',
+    title: 'Ship products.',
     subtitle: 'Products',
     color: '#0052ff',
-    description: 'Launch real products — not portfolio projects. We focus on shipping onchain applications with actual utility and user potential.',
+    description: 'Ship real products instead of static portfolio pieces. Build and launch onchain apps that solve meaningful problems for actual users.',
     pattern: 'stars'
   },
   {
     id: 'earn',
-    title: 'Earn',
-    subtitle: 'Income',
+    title: 'Earn impact.',
+    subtitle: 'Outcomes',
     color: '#a855f7',
-    description: 'Generate independent income before you leave school. Access bounties, grants, and contributor roles within elite ecosystems.',
+    description: 'Create measurable outcomes while you are still in school. Turn your work into opportunities through bounties, grants, and contributor roles.',
     pattern: 'circles'
   },
   {
     id: 'align',
-    title: 'Align',
-    subtitle: 'Operators',
+    title: 'Build your network.',
+    subtitle: 'People',
     color: '#99ff00',
-    description: 'Build alongside serious operators. Your circle determines your edge; surround yourself with those already winning.',
+    description: 'Build your network with ambitious builders and operators. Surround yourself with people who raise your standards and expand your opportunities.',
     pattern: 'stars'
   }
 ];
